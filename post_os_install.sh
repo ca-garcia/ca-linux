@@ -96,6 +96,7 @@ sudo apt-get install hardinfo -y
 # Installing Snap Apps
 #--------------------------------------------------
 echo -e "\n==== Installing Snap Apps ===="
+sudo snap install indicator-sensors
 sudo snap install skype -y
 sudo snap install code -y
 sudo snap install pycharm-community -y
